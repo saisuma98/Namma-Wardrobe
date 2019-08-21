@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "748574286008",
+    "firebase_url": "https://nammawardrobe.firebaseio.com",
+    "project_id": "nammawardrobe",
+    "storage_bucket": "nammawardrobe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748574286008:android:3d5fed39ac04a31d",
+        "android_client_info": {
+          "package_name": "com.e.nammawardrobe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748574286008-mvgq4r292a06851ju3jj9ogub5vsfojh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.nammawardrobe",
+            "certificate_hash": "3d30368520b1f2529b5ff389ee6e7623663a2737"
+          }
+        },
+        {
+          "client_id": "748574286008-71fft77rnrcs7r6t0ao7qo0euak0cctj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD9xgnOPJG8tPVV1dmEax9HVra8Vdn4zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748574286008-71fft77rnrcs7r6t0ao7qo0euak0cctj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
